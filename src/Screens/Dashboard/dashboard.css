@@ -1,0 +1,22 @@
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.customer{
+    padding: 10px;
+}
+.dashboard{
+    height: 110vh;
+    width: 100vw;
+    background-color: #E5E7E9;
+   
+
+}
+
+.navbar{
+    height: 10vh;
+    width: 100vw;
+    background-color: white;
+    box-shadow: 0 0 10px;
+    
+}

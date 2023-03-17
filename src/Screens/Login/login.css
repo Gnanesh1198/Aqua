@@ -1,0 +1,64 @@
+.main {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background: url('/src/Images/luke-chesser-pJadQetzTkI-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.headerName{
+    justify-content: center;
+    display: flex;  
+}
+
+.content{
+    justify-content: center;
+    display: flex; 
+}
+
+.loginCard{
+    justify-content: center;
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px;
+    background-color: white;
+}
+
+
+.usernamePH{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.passwordPH{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.loginBtn{
+    justify-content: center;
+    display: flex; 
+    margin-top: 40px;
+    
+}
+
+.btn {
+    background-color: #3498DB; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

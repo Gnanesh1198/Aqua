@@ -1,0 +1,14 @@
+.nav{
+    height: 10vh;
+    width: 100vw;
+    background-color: white;
+    box-shadow: 0 0.10px 0;
+    padding: 1px;
+}
+
+.cusName{
+    justify-content: left;
+    align-items: start;
+    display: flex;
+    margin-left: 100px;
+}
